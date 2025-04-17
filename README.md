@@ -4,16 +4,10 @@ Kotlin
 # File Explorer Compose
 
 [![Platform](https://img.shields.io/badge/Platform-Android-brightgreen.svg?logo=android)](https://www.android.com/)
-[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Release](https://img.shields.io/github/v/release/Raival-e/File-Explorer-Compose?label=Release)](https://github.com/Raival-e/File-Explorer-Compose/releases)
 [![APK Downloads](https://img.shields.io/github/downloads/Raival-e/File-Explorer-Compose/total.svg?label=APK%20Downloads)](https://github.com/Raival-e/File-Explorer-Compose/releases)
 [![Repository Size](https://img.shields.io/github/repo-size/Raival-e/File-Explorer-Compose)](https://github.com/Raival-e/File-Explorer-Compose/releases)
 
-<p align="center">
-  <img src="assets/home_screen.png" width="32%" alt="Home Screen"/>
-  <img src="assets/options_dialog.png" width="32%" alt="Options Dialog"/>
-  <img src="assets/text_editor.png" width="32%" alt="Text Editor"/>
-</p>
 
 **A modern, feature-rich, and lightweight file manager for Android, built entirely with Kotlin and Jetpack Compose.**
 
@@ -80,3 +74,17 @@ Contributions are welcome! If you'd like to contribute to File Explorer Compose,
 *   **Bug Reports:**  If you encounter any issues, please [open an issue](https://github.com/Raival-e/File-Explorer-Compose/issues) on GitHub describing the problem in detail.
 *   **Feature Requests:**  Have a great idea for a new feature?  Submit a [feature request issue](https://github.com/Raival-e/File-Explorer-Compose/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=Feature+Request%3A+) to share your suggestions.
 *   **Code Contributions:**  Fork the repository, create a branch for your changes, and submit a pull request. Please follow the project's coding style.
+
+          Screenshort
+
+    ![image](https://github.com/user-attachments/assets/ef591ac6-a346-41c7-a59c-706d8e018839)
+
+    ![image](https://github.com/user-attachments/assets/c56bc840-6741-4035-806d-738dfe87de74)
+
+    ![image](https://github.com/user-attachments/assets/86cb5477-c60b-4df9-8610-131515307262)
+
+    ![image](https://github.com/user-attachments/assets/c3a5d38d-5abe-4043-9b5b-81f2a3ce12bd)
+
+    
+
+
